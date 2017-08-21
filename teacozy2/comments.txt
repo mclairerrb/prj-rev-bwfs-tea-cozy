@@ -1,0 +1,13 @@
+I had many difficulties with this project and am falling behind on the program so I will submit it as is.
+
+I do not understand the following and am hoping to learn from your feedback:
+
+Why my nav bar with logo did not go all the way to the top of the page?
+Consequently, Why the scrolled page appears at the top...
+
+Also, I placed a white border around my main banner image to visualize the div but when I remove it the Mission ribbon 
+is displaced.  I have no idea of why this happens or how to fix it.
+
+I am a little confused about when to use span and when to use p tags.
+
+Thank you for your time and energy reading this code of a beginner....hoping to learn a lot from the corrections.
